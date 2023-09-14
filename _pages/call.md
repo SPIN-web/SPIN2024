@@ -37,16 +37,16 @@ Topics of interest include, but are not limited to:
 
 ## Important Dates
 
-Submissions due: January 15, 2024 (23:59:59 Anywhere on Earth)
-Author notification: February 26, 2024
-Camera ready: March 11, 2024
-Symposium: between April 6 and 11, 2024. Exact dates will be announced later.
+- Submissions due: January 15, 2024 (23:59:59 Anywhere on Earth)
+- Author notification: February 26, 2024
+- Camera ready: March 11, 2024
+- Symposium: between April 6 and 11, 2024. Exact dates will be announced later.
 
 ## Submission Categories and Guidelines
 
-Papers should be submitted via the EasyChair SPIN 2024 submission website. The link will be published later on this page.
+Papers should be submitted via the EasyChair SPIN 2024 submission website: [https://easychair.org/conferences/?conf=spin2024](https://easychair.org/conferences/?conf=spin2024).
 
-The proceedings of SPIN 2024 will be published in Springer’s Lecture Notes in Computer Science series. Submissions should adhere to the LNCS format: [https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines).
+The proceedings of SPIN 2024 will be published in Springer's *Lecture Notes in Computer Science* series. Submissions should adhere to the LNCS format, see Springer's website for [detailed instructions](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines).
 
 With the exception of survey and history papers, the papers should contain original work that has not been submitted or accepted for publication elsewhere.
 
@@ -63,8 +63,7 @@ All papers that conform to submission guidelines will be peer-reviewed by member
 At least one author of each accepted paper must attend the symposium and present the paper.
 
 A Best Paper award will be announced and handed out at the conference.
-
-Traditionally, a selection of papers were invited to a special issue of the International Journal on Software Tools for Technology Transfer (STTT).
+A selection of the best papers will be invited to a special issue of the [*International Journal on Software Tools for Technology Transfer*](https://sttt.cs.uni-dortmund.de/) (STTT).
 
 ## Artifacts
 
