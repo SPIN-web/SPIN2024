@@ -19,7 +19,7 @@ TBA
 ## Artifact Evaluation Chairs
 
 [Ernst Moritz Hahn](https://emhahn.de/) (University of Twente, Netherlands)  
-[Matthias Volk](https://volkm.github.io/) (University of Twente, Netherlands)  
+[Matthias Volk](https://volkm.github.io/) (Eindhoven University of Technology, Netherlands)  
 
 ## Steering Committee
 
