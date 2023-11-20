@@ -22,7 +22,7 @@ order: 1
 [Gerard Holzmann](https://spinroot.com/gerard/), Nimble Research, USA  
 [Mitja Kulczynski](https://kulczyn.ski/), Kiel University, Germany  
 [Ondřej Lengál](https://ondrik.github.io/), Brno University of Technology, Czech Republic  
-[Radu Mateescu](https://convecs.inria.fr/people/Radu.Mateescu/), Inria Grenoble - Rhône-Alpes, France  
+[Radu Mateescu](https://convecs.inria.fr/people/Radu.Mateescu/), Inria Grenoble - Rhône-Alpes, France 
 [Rosemary Monahan](http://rosemarymonahan.com/), Maynooth University, Ireland  
 [Thomas Neele](https://tneele.com/), Eindhoven University of Technology, The Netherlands  
 [Jaco van de Pol](https://www.cs.au.dk/~jaco/), Aarhus University, Denmark  
@@ -32,6 +32,7 @@ order: 1
 [Stephen Siegel](https://blog.stephensiegel.org/), University of Delaware, USA  
 [Marjan Sirjani](https://marjansirjani.github.io/Marjan-Sirjani/), Malardalen University, Sweden  
 [Scott Smolka](https://www3.cs.stonybrook.edu/~sas/), Stony Brook University, USA  
+[Yann Thierry-Mieg](https://pages.lip6.fr/Yann.Thierry-Mieg/), LIP6-Sorbonne Université, France  
 [Anton Wijs](https://www.win.tue.nl/~awijs/), Eindhoven University of Technology, The Netherlands  
 
 ## Artifact Evaluation Chairs
