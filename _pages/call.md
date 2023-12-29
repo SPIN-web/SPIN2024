@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /cfp
-order: 2
+order: 3
 ---
 
 # Call for Papers
@@ -67,4 +67,4 @@ A selection of the best papers will be invited to a special issue of the [*Inter
 
 ## Artifacts
 
-SPIN 2024 introduces an artifact evaluation, performed by an Artifact Evaluation Committee (AEC). The AEC evaluates artifacts based on documentation, availability, reproducibility of results and reusability. Papers with an accompanying artifact may be awarded one or more badges from the EAPLS artifact badging scheme [https://eapls.org/pages/artifact_badges/](https://eapls.org/pages/artifact_badges/). Submission of an artifact is optional. More details will be published on this website later.
+SPIN 2024 introduces an artifact evaluation, performed by an Artifact Evaluation Committee (AEC). The AEC evaluates artifacts based on documentation, availability, reproducibility of results and reusability. Papers with an accompanying artifact may be awarded one or more badges from the EAPLS artifact badging scheme [https://eapls.org/pages/artifact_badges/](https://eapls.org/pages/artifact_badges/). Submission of an artifact is optional. More details can be found on the page about [artifacts]({{ site.baseurl }}{% link _pages/artifacts.md %}).

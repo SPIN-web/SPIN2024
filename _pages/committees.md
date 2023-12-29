@@ -22,7 +22,7 @@ order: 1
 [Gerard Holzmann](https://spinroot.com/gerard/), Nimble Research, USA  
 [Mitja Kulczynski](https://kulczyn.ski/), Kiel University, Germany  
 [Ondřej Lengál](https://ondrik.github.io/), Brno University of Technology, Czech Republic  
-[Radu Mateescu](https://convecs.inria.fr/people/Radu.Mateescu/), Inria Grenoble - Rhône-Alpes, France 
+[Radu Mateescu](https://convecs.inria.fr/people/Radu.Mateescu/), Inria Grenoble - Rhône-Alpes, France  
 [Rosemary Monahan](http://rosemarymonahan.com/), Maynooth University, Ireland  
 [Thomas Neele](https://tneele.com/), Eindhoven University of Technology, The Netherlands  
 [Jaco van de Pol](https://www.cs.au.dk/~jaco/), Aarhus University, Denmark  
@@ -37,12 +37,19 @@ order: 1
 
 ## Artifact Evaluation Chairs
 
-[Ernst Moritz Hahn](https://emhahn.de/) (University of Twente, Netherlands)  
-[Matthias Volk](https://volkm.github.io/) (Eindhoven University of Technology, Netherlands)  
+[Ernst Moritz Hahn](https://emhahn.de/), (University of Twente, Netherlands)  
+[Matthias Volk](https://volkm.github.io/), (Eindhoven University of Technology, Netherlands)  
 
 ## Artifact Evaluation Committee
 
-TBA
+[Peter Backeman](https://www.es.mdu.se/staff/4393-Peter__Backeman) (Mälardalen University, Sweden)  
+[Rong Gu](https://sites.google.com/view/ronggu/home) (Mälardalen University, Sweden)  
+[Sudeep Kanav](https://www.sosy-lab.org/people/kanav/) (LMU Munich, Germany)  
+[Martin Kristjansen](https://vbn.aau.dk/en/persons/122802) (Aalborg University, Denmark)  
+[Stefano Nicoletti](https://stefanonicoletti.com/) (University of Twente, Netherlands)  
+[Quentin Nivon](https://scholar.google.com/citations?user=wJcVcNIAAAAJ) (INRIA Grenoble Rhône-Alpes, France)  
+[Reza Soltani](https://rezasoltani.me/) (University of Twente, Netherlands)  
+[Ahang Zuo](https://dblp.org/pid/306/8744.html) (INRIA Grenoble Rhône-Alpes, France)  
 
 ## Steering Committee
 
