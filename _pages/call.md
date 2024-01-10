@@ -37,7 +37,7 @@ Topics of interest include, but are not limited to:
 
 ## Important Dates
 
-- Submissions due: January 15, 2024 (23:59:59 Anywhere on Earth)
+- Submissions due: ~~January 15, 2024~~ **January 22, 2024** (23:59:59 Anywhere on Earth) (extended deadline)
 - Author notification: February 26, 2024
 - Camera ready: March 11, 2024
 - Symposium: April 10 and 11, 2024.
