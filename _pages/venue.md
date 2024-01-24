@@ -11,4 +11,6 @@ For information on travel and accommodation we refer to the information provided
 
 # Registration
 
-Registration works through the ETAPS registration page.
+An early registration for SPIN is €350 (available until March 6); late registration costs €400.
+Alternatively, one may buy a ticket for all of ETAPS, which includes admission to SPIN.
+All details and the link to the registration form are on the [ETAPS registration page](https://etaps.org/2024/registration/).
