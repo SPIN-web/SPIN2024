@@ -33,3 +33,5 @@ SPIN 2024 will be colocated with the 27th European Joint Conferences on Theory a
 | Symposium            | 10-11 Apr 2024                                            |
 
 
+## Sponsors
+[![EAPLS logo]({{ site.baseurl }}{% link assets/images/EAPLS_logo.jpg %})](https://eapls.org/)
