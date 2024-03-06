@@ -29,7 +29,7 @@ SPIN 2024 will be colocated with the 27th European Joint Conferences on Theory a
 |----------------------|-----------------------------------------------------------|
 | Submission deadline  | ~~15 Jan 2024~~ **22 Jan 2024** (AoE) (extended deadline) |
 | Notification         | 26 Feb 2024                                               |
-| Final version        | 11 Mar 2024 (AoE)                                         |
+| Final version        | ~~11 Mar 2024~~ **15 March 2024** (AoE)                   |
 | Symposium            | 10-11 Apr 2024                                            |
 
 
