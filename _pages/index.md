@@ -35,3 +35,4 @@ SPIN 2024 will be colocated with the 27th European Joint Conferences on Theory a
 
 ## Sponsors
 [![EAPLS logo]({{ site.baseurl }}{% link assets/images/EAPLS_logo.jpg %})](https://eapls.org/)
+[![LNCS logo]({{ site.baseurl }}{% link assets/images/LNCS_logo.png %})](https://www.springer.com/gp/computer-science/lncs)
