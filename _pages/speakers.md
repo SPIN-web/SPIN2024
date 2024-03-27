@@ -8,7 +8,28 @@ order: 4
 
 These speakers will give an invited talk at SPIN 2024. More speakers and details about the talks will be announced on this page.
 
+### [Gerard Holzmann](http://spinroot.com/gerard/) (Nimble Research, USA)
+
+**The Spin on Spin**
+
+The first Spin (then) Workshop was a small event that was organized by INRS-Telecommunications in Montreal, Quebec in 1995.
+Since then, the event was held 16 times in Europe, 10 times in the USA, twice in Canada, and once in each of China and South Africa.
+Today, the focus of the Symposium is much broader than a single verification tool or technology, but it is interesting to see how much progress has been made over the years.
+The development of Spin itself started in 1984 at Bell Labs, a respectable 40 years ago.
+That first version was 3,508 lines of code (which included a good amount of optional debugging code).
+The code has grown quite a bit since then, as all code inevitably does until it stops being useful.
+In this talk I’ll reflect a little on what specific problems Spin was originally trying to solve, and how our collective focus has changed over the years.
+
+Gerard Holzmann is well known as the founder of the SPIN model checker in the 1980s.
+He has received multiple awards, including the ACM Software System Award 2001 for the creation of SPIN.
+
 ### [Kristin Yvonne Rozier](https://www.aere.iastate.edu/kyrozier/) (Iowa State University, USA)
+
+**MoXI: An Intermediate Language for Symbolic Model Checking**
+
+Three progressive challenges stand in between the popular, "push-button", industrially-valuable technique of symbolic model checking and the level of widespread adoption achieved by other verification techniques: (1) the specification bottleneck; (2) the state-space explosion problem; and (3) the lack of standardization and open-source implementations limiting the impact of advances in (1) and (2).
+We address this third challenge. Learning from past definitions of intermediate languages and common interfaces, as well as input from the international research community, we define a new, extensible intermediate language as a standard interface for hardware symbolic model checking.
+Our contributions include: (a) defining the syntax and semantics of MoXI, the new symbolic model-checking intermediate language designed to become a standard for the international research community; (b) demonstrating that an initial implementation of symbolic model checking through MoXI performs competitively with current state-of-the-art symbolic model checkers; (c) reframing the next symbolic model checking research challenges considering this new community standard.
 
 Kristin Rozier is an Associate Professor in the faculty of the Aerospace Engineering and Computer Science Departments.
 She previously worked at the University of Cincinatti and NASA.
@@ -16,7 +37,7 @@ Her research interests include various design-time formal methods for safety-cri
 
 ### [Holger Hermanns](https://depend.cs.uni-saarland.de/~hermanns/) (Saarland University, Germany)
 
-**Runtime monitoring and probabilistic falsification for effective human oversight**
+**Taming the AI Monster: Monitoring of Individual Fairness for Effective Human Oversight**
 
 This presentation introduces a framework that is meant to assist in
 mitigating societal risks that software can pose. At its core, we
