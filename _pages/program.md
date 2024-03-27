@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /program
-order: 5
+order: 2
 ---
 
 <table>

@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /venue
-order: 6
+order: 5
 ---
 
 # Venue

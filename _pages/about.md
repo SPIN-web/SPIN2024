@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /about
-order: 7
+order: 6
 ---
 
 # About SPIN
