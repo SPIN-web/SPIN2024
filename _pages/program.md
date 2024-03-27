@@ -2,6 +2,7 @@
 layout: home
 permalink: /program
 order: 2
+published: true
 ---
 
 <table>
