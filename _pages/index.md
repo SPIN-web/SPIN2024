@@ -21,6 +21,7 @@ The 30th International SPIN symposium on Model Checking of Software (SPIN 2024) 
 SPIN 2024 will be colocated with the 27th European Joint Conferences on Theory and Practice of Software (ETAPS 2024).
 
 ## News
+* The program, including informal pre-proceedings, is available on the website [here]({{ site.baseurl }}{% link _pages/program.md %})
 * The submission deadline has been extended by one week to **22 Jan 2024** (AoE). Papers can be submitted via the [SPIN 2024 Easychair page](https://easychair.org/conferences/?conf=spin2024).
 
 ## Important dates
