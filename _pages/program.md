@@ -22,15 +22,15 @@ order: 2
       <p>Opening</p>
       <p><strong>Session 1: Software verification.</strong> chair: Thomas Neele</p>
       <p><strong>10:30--11:30: Taming the AI Monster: Monitoring of Individual Fairness for Effective Human Oversight <a class="pdf-icon" href="{{ site.baseurl }}{% link assets/preproceedings/SPIN2024-paper1.pdf %}"></a></strong> (keynote)<br />Holger Hermanns</p>
-      <p><em>Augmenting Interpolation-Based Model Checking with Auxiliary Invariants</em><a class="pdf-icon" href="{{ site.baseurl }}{% link assets/preproceedings/SPIN2024-paper13.pdf %}"></a><br />Dirk Beyer, Po-Chun Chien and Nian-Ze Lee</p>
+      <p><em>Augmenting Interpolation-Based Model Checking with Auxiliary Invariants</em><a class="pdf-icon" href="{{ site.baseurl }}{% link assets/preproceedings/SPIN2024-paper13.pdf %}"></a><br />Dirk Beyer, Po-Chun Chien and Nian-Ze Lee<br><b>(nominated for best paper)</b></p>
       <p><em>Test-Case Generation with Automata-based Software Model Checking</em><a class="pdf-icon" href="{{ site.baseurl }}{% link assets/preproceedings/SPIN2024-paper14.pdf %}"></a><br />Max Barth and Marie-Christine Jakobs</p>
       </td>
       <td>
-      <p><strong>Session 4: Verification tools.</strong> chair: TBD</p>
+      <p><strong>Session 4: Verification tools.</strong> chair: Matthias Heizmann</p>
       <p><em>Learning the State Machine Behind a Modal Text Editor: The (Neo)Vim Case Study</em><a class="pdf-icon" href="{{ site.baseurl }}{% link assets/preproceedings/SPIN2024-paper9.pdf %}"></a><br />Pierre Ganty</p>
       <p><em>Tolerange: Quantifying Fault Masking in Stochastic Systems</em><a class="pdf-icon" href="{{ site.baseurl }}{% link assets/preproceedings/SPIN2024-paper10.pdf %}"></a><br />Luciano Putruele, Ramiro Demasi, Pablo Castro and Pedro D'Argenio</p>
       <p><em>Software Verification Witnesses 2.0</em><a class="pdf-icon" href="{{ site.baseurl }}{% link assets/preproceedings/SPIN2024-paper11.pdf %}"></a><br />Paulína Ayaziová, Dirk Beyer, Marian Lingsch-Rosenfeld, Martin Spiessl and Jan Strejček</p>
-      <p><em>Fault Localization on Verification Witnesses</em><a class="pdf-icon" href="{{ site.baseurl }}{% link assets/preproceedings/SPIN2024-paper12.pdf %}"></a><br />Dirk Beyer, Matthias Kettl and Thomas Lemberger</p>      
+      <p><em>Fault Localization on Verification Witnesses</em><a class="pdf-icon" href="{{ site.baseurl }}{% link assets/preproceedings/SPIN2024-paper12.pdf %}"></a><br />Dirk Beyer, Matthias Kettl and Thomas Lemberger<br><b>(nominated for best paper)</b></p>
       </td>
     </tr>
     <tr>
