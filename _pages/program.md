@@ -61,7 +61,7 @@ order: 2
     <tr>
         <td>16:30--17:30</td>
         <td>
-        <p><strong>Session 3: Automated reasoning</strong> chair: TBD</p>
+        <p><strong>Session 3: Automated reasoning</strong> chair: Alfons Laarman</p>
         <p><em>Random Access on Narrow Decision Diagrams in External Memory</em><a class="pdf-icon" href="{{ site.baseurl }}{% link assets/preproceedings/SPIN2024-paper7.pdf %}"></a><br />Steffan Christ Sølvsten, Casper Moldrup Rysgaard and Jaco van de Pol</p>
         <p><em>Solving Constrained Horn Clauses as C Programs with CHC2C</em><a class="pdf-icon" href="{{ site.baseurl }}{% link assets/preproceedings/SPIN2024-paper8.pdf %}"></a><br />Levente Bajczi and Vince Molnár</p>
         </td>
